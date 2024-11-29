@@ -1,4 +1,4 @@
-module pkgs
+module github.com/fedora17/pkgs
 
 go 1.20
 
